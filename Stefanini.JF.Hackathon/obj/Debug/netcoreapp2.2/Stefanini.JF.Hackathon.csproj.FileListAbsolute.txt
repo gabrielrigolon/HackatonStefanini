@@ -1,0 +1,10 @@
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.deps.json
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.runtimeconfig.json
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.runtimeconfig.dev.json
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.dll
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.pdb
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.csprojAssemblyReference.cache
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.AssemblyInfoInputs.cache
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.AssemblyInfo.cs
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.dll
+C:\Users\dccosta2\Desktop\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.pdb
