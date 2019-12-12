@@ -28,9 +28,6 @@ namespace Stefanini.JF.Hackathon
                             Console.ReadKey();
                             break;
                         }
-
-                    default:
-                        break;
                 }
 
             };
