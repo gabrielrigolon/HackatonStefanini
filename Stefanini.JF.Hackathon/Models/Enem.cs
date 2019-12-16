@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Stefanini.JF.Hackathon.Models
 {
-    class Enem
+    public class Enem
     {
         public int NumeroVagas { get; set; }
 

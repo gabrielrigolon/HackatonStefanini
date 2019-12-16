@@ -4,6 +4,7 @@
     {
         public double Nota { get; set; }
         public Cidade Cidade { get; set; }
+        public bool Status { get; set; }
 
     }
 
