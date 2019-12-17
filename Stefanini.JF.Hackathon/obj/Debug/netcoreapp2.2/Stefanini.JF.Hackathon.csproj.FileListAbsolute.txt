@@ -18,3 +18,13 @@ C:\Users\grsilva1\ProjetosCurso\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\ob
 C:\Users\grsilva1\ProjetosCurso\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.AssemblyInfo.cs
 C:\Users\grsilva1\ProjetosCurso\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.dll
 C:\Users\grsilva1\ProjetosCurso\Stefanini.JF.Hackathon\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.pdb
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.csprojAssemblyReference.cache
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.AssemblyInfoInputs.cache
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.AssemblyInfo.cs
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.dll
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\obj\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.pdb
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.deps.json
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.runtimeconfig.json
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.runtimeconfig.dev.json
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.dll
+C:\Users\gabrielrigolon\Projetos\Nova pasta\HackatonStefanini\Stefanini.JF.Hackathon\bin\Debug\netcoreapp2.2\Stefanini.JF.Hackathon.pdb

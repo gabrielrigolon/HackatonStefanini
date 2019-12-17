@@ -101,7 +101,7 @@ namespace Stefanini.JF.Hackathon
         {
             var cand = new Candidato();
 
-            cand.Status = true;
+            cand.Status = false;
 
             Console.WriteLine("Cadastrando candidato....\n");
             Thread.Sleep(1000);
@@ -163,7 +163,7 @@ namespace Stefanini.JF.Hackathon
             var index = random.Next(4);
 
             Candidato candidatoAleatorio = new Candidato();
-            candidatoAleatorio.Status = true;
+            candidatoAleatorio.Status = false;
             candidatoAleatorio.Nome = RandomString(5, true);
             candidatoAleatorio.Nota = random.Next(101);
             candidatoAleatorio.Cidade = cidades.ElementAt(index);
@@ -174,16 +174,22 @@ namespace Stefanini.JF.Hackathon
 
         public static void ListarAprovados()
         {
+            int cont = 1;
 
             foreach (var candidato in candidatos.OrderByDescending(x => x.Nota))
             {
                 if (candidato.Nota == 0)
                     candidato.Status = false;
 
-                else if (candidato.Nota > 0 && enem.NumeroVagas < candidatos.Count)
+                if (candidato.Nota > 0 && enem.NumeroVagas < candidatos.Count)
                     candidato.Status = true;
 
-                Console.WriteLine($"{candidato.Nome} | {candidato.Nota} | {candidato.Status} ;");
+                if(enem.NumeroVagas < cont )
+                    candidato.Status = false;
+
+                Console.WriteLine($"{candidato.Nome} | {candidato.Nota} | {(candidato.Status ? "aprovado" : "reprovado")} | {candidato.Cidade.Nome} ;");
+
+                cont++;
             }
 
             Console.ReadLine();
@@ -206,10 +212,12 @@ namespace Stefanini.JF.Hackathon
                 }
             }
 
+            Console.WriteLine("Candidatos aprovados por cidade \n");
+
             foreach (var cidade in cidades)
             {
-                Console.WriteLine("Candidatos aprovados por cidade");
-                Console.WriteLine($"{cidade.Nome}: {cidade.CandidatosAprovados*(enem.NumeroVagas/100)}");
+                var porcentagem = (cidade.CandidatosAprovados*100.0) / enem.NumeroVagas;
+                Console.WriteLine($"{cidade.Nome}: {porcentagem} %");
             }
 
             Console.ReadLine();

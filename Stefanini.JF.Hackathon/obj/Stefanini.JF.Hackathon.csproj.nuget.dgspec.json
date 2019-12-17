@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grsilva1\\ProjetosCurso\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj": {}
+    "C:\\Users\\gabrielrigolon\\Projetos\\Nova pasta\\HackatonStefanini\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grsilva1\\ProjetosCurso\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj": {
+    "C:\\Users\\gabrielrigolon\\Projetos\\Nova pasta\\HackatonStefanini\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grsilva1\\ProjetosCurso\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj",
+        "projectUniqueName": "C:\\Users\\gabrielrigolon\\Projetos\\Nova pasta\\HackatonStefanini\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj",
         "projectName": "Stefanini.JF.Hackathon",
-        "projectPath": "C:\\Users\\grsilva1\\ProjetosCurso\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj",
-        "packagesPath": "C:\\Users\\grsilva1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grsilva1\\ProjetosCurso\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon\\obj\\",
+        "projectPath": "C:\\Users\\gabrielrigolon\\Projetos\\Nova pasta\\HackatonStefanini\\Stefanini.JF.Hackathon\\Stefanini.JF.Hackathon.csproj",
+        "packagesPath": "C:\\Users\\gabrielrigolon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabrielrigolon\\Projetos\\Nova pasta\\HackatonStefanini\\Stefanini.JF.Hackathon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\grsilva1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabrielrigolon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

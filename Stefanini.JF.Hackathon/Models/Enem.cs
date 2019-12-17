@@ -8,6 +8,5 @@ namespace Stefanini.JF.Hackathon.Models
     {
         public int NumeroVagas { get; set; }
 
-
     }
 }
