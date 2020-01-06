@@ -1,6 +1,6 @@
 ﻿namespace Stefanini.JF.Hackathon.Models
 {
-    class Avaliador : Pessoa
+    public class Avaliador : Pessoa
     {
         public int Matricula { get; set; }
 
